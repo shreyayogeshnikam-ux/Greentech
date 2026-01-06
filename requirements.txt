@@ -1,3 +1,7 @@
 streamlit
 numpy
+
 pickle
+seaborn
+scilit-learn
+matplotib
